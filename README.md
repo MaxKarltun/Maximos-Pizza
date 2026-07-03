@@ -10,7 +10,7 @@ Pizza Restaurant Menu website with pictures.
 
 
 
-<p align="center"> :octocat: <b><a href=" https://maxkarltun.github.io/Maximos-Pizza/"> GO TO MAXIMO'S PIZZA </a>
+LINK: https://maxkarltun.github.io/Maximos-Pizza/"
 ________________________________________________________________________________________________
 
 ## What was done.
