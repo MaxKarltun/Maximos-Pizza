@@ -1,74 +1,74 @@
+# 🍕 Maximo’s Pizza — Client Test Site
 
-Pizza Restaurant Menu website with pictures.
+Welcome to **Maximo’s Pizza**, a vibrant and modern **client test website** built to showcase a pizza restaurant’s menu, style, and visual identity online.
 
+This project is designed as a realistic demo environment for restaurant clients who want to preview how their brand can look on the web before full production launch.
 
+---
 
+## ✨ Project Highlights
 
+- Eye-catching, food-focused visual layout
+- Stylish menu presentation for pizzas and specials
+- Responsive structure for desktop and mobile browsing
+- Fast, lightweight front-end stack
+- Easy to customize for new restaurant concepts
 
+---
 
+## 🍝 Built for More Than Pizza
 
+While this version is themed around a pizza restaurant, the structure is intentionally reusable and can be adapted for:
 
+- Italian restaurant menus
+- Pasta bars
+- Cafés and trattorias
+- Family-style dining brands
+- New restaurant concept mockups
 
+If your client serves Italian cuisine, this site can quickly become a polished starting point.
 
-LINK: https://maxkarltun.github.io/Maximos-Pizza/
-________________________________________________________________________________________________
+---
 
-## What was done.
+## 🧰 Tech Stack
 
-In this application excercise the following technology was used.
+- **SCSS**
+- **CSS**
+- **HTML**
+- **JavaScript**
+- **PHP** (minimal usage)
 
-    1.HTML elements, attributes, and properties
-    2.CSS class selectors
-    3.JavaScript objects
-    4.JavaScript functions
-    4.Web Storage API
-    5. The window object
-    6.Git and GitHub
+---
 
-________________________________________________________________________________________________________________________________________________________
+## 🎯 Purpose
 
-## Technologies In Practice :
-  
-  
-TECHNOLOGY USED:
+This repository serves as a **client-facing test/demo site** to:
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+1. Present restaurant branding in a live web format  
+2. Test menu design and content structure  
+3. Collect client feedback before final build/deployment  
 
+---
 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+## 🚀 Customization Potential
 
+You can easily reuse this codebase by changing:
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+- Restaurant name and logo
+- Color palette and typography
+- Menu categories and pricing
+- Photo galleries and promotional banners
+- Contact details and location information
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+---
 
+## 📌 Notes
 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+This is a test concept intended for demonstration and iteration.  
+Production hardening (CMS integration, advanced backend features, ordering systems, etc.) can be added as needed.
 
+---
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 👨‍💻 Author
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-
-Additional credit: Used Hasthemes JavaSCript and Bootstrap Libraries for further integration.    
-_______________________________________________________________________________________________________________________________________________________
-
-# Work Completed
-Building a website with HTML & CSS. Work included:
-
-- [x] HTML outlined, used semantic HTML
-- [x] CSS added in hierarchical fashion, to meet design requiremetns
-- [x] Form field added
-- [x] Comments added in index.html and .css files for clarity around structure and function 
-- [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text. 
-##
-_____________________________________________________________________________________________________________
+Created by **MaxKarltun**
